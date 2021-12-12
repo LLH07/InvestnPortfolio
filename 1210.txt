@@ -1,0 +1,8 @@
+We know which are sv stocks fore each month
+extract al the sv stock return for each month
+compute the weighted sum of all sv stock return for each month 
+(FF: use value weighted: me(i, t-1)/sigma me(i, t-1))
+get the sv portfolio returns
+
+We form portfolio in june
+know rankng in June and ME in June
